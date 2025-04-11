@@ -95,7 +95,7 @@ This application is built using the **MERN (Postgresql, Express.js, React, Node.
 
 * **`POST /api/users/register`:** Register a new user.
 * **`POST /api/users/login`:** Login and get a JWT token.
-* **`GET /api/scores`:** Get all user scores (requires authentication).
+* **`GET /api/data`:** Get all data about the product (requires authentication).
 ---
 
 ## 🤝 Contribution Guidelines
